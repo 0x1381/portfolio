@@ -4,7 +4,7 @@ module.exports = {
     'Afshin Ataei is a Software Developer at Amdocs, who loves learning new things and helping tech beginners.',
   siteKeywords:
     'Afshin Ataei, software developer, software engineer, content freelancer, face mask, face mask detection, web developer, java developer, pepper content, jamshedpur, amdocs, bit, mesra',
-  siteUrl: 'https://0x1381.github.io/Protfilo-/',
+  siteUrl: 'https://0x1381.github.io/portfolio/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
