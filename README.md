@@ -1,4 +1,10 @@
 
+<p align="center">
+
+  <h1 align="center">Thanks to… <a href="https://github.com/bchiang7">bchiang7</a></h1>
+
+</p>
+
 
 ### TL;DR
 
