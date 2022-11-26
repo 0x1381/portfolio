@@ -2,9 +2,10 @@
 title: 'About Me'
 avatar: 'me.jpg'
 skills:
-  - HTML CSS
-  - PYTHON
-  - JS
+  - Html CSS
+  - Python
+  - Js
+  - Atmel Studio
 ---
 
 Hello! Interestingly, I got introduced to programming in my freshman year at [Birla Institute Of Technology,  Mesra](https://www.bitmesra.ac.in/) where I completed my Bachelors in Computer Science and Engineering (2016-2020) with [86.3% aggregate](https://drive.google.com/file/d/1G4UBPBP0mvWZLRdkF_EcpmKKGp7_OA8U/view?usp=sharing).
