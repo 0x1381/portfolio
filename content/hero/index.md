@@ -1,5 +1,5 @@
 ---
-title: 'سلام! اسم من هست'
+title: 'Hello Wolrld! my name is'
 name: 'Afshin Ataei'
 subtitle: 'I love exploring new things!'
 buttonText: 'Contact Me'
